@@ -64,4 +64,4 @@ while True:
     response = generate_response(prompt)
     print(response)
 
-~ his is how we create chat bots and it’s the code for implementation for the respective project!
+~ this is how we create chat bots and it’s the code for implementation for the respective project!
